@@ -38,11 +38,17 @@ Reference Resources : (WebRTC) [Link](https://www.youtube.com/watch?v=_-GPHNSug2
    </br>
   
 3. Open Android Application (Android_RemoteControl_Service) with Android Studio or Intellij
-4. Follow like below video with two emulator or phone.
+4. Change Socket url from mine to your
+<img width="582" alt="스크린샷 2023-12-23 오후 9 29 43" src="https://github.com/tvroom88/Android_RemoteControl_Project/assets/4710854/30c9b4cf-7437-4ef1-bab7-747ddafee374">
 
+<br/><br/>
+5. Follow like below video with two emulator or phone.
 
+Caller :
 
 https://github.com/tvroom88/Android_RemoteControl_Project/assets/4710854/54a0e271-eb0e-4aca-9900-fc7052cbbdd4 
+
+Callee : 
 
 https://github.com/tvroom88/Android_RemoteControl_Project/assets/4710854/d493cb27-e079-408d-9eef-20caec61c813
 
