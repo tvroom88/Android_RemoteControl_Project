@@ -1,0 +1,16 @@
+{
+  "name": "screen-share",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "websocket": "^1.0.34"
+  },
+  "description": ""
+}
