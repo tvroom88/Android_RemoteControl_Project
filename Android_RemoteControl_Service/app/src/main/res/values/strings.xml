@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android_RemoteControl_Service</string>
+    <string name="request_title">WebrtcScreenShare</string>
+    <string name="request_content">Would you like to enable Screen Sharing using Accessibility Permissions? If you intend to grant Accessibility Permissions, please press the Accept button. Otherwise, press the Reject button.</string>
+    <string name="accessibility_service_description">My Accessibility Service</string>
+</resources>
