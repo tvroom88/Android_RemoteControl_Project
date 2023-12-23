@@ -56,6 +56,10 @@ class WebrtcService @Inject constructor() : Service(), MainRepository.Listener {
                     stopMyService()
                 }
 
+                "STOP_ACTION" -> {
+                    stopMyService()
+                }
+
                 "EndCallIntent" -> {
                     mainRepository.sendCallEndedToOtherPeer()
                     mainRepository.onDestroy()
