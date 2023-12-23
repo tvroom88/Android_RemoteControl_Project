@@ -46,11 +46,11 @@ Reference Resources : (WebRTC) [Link](https://www.youtube.com/watch?v=_-GPHNSug2
 
 #### 1) Webrtc screen Sharing FlowChart
 
-<img width="851" alt="스크린샷 2023-12-23 오후 2 25 55" src="https://github.com/tvroom88/Android_RemoteControl_Project/assets/4710854/31840301-dc66-403f-833d-b6a0adfe04ba">
+<img width="865" alt="스크린샷 2023-12-23 오후 2 30 01" src="https://github.com/tvroom88/Android_RemoteControl_Project/assets/4710854/b4ee2abe-48d2-45cf-9069-6bd9d0f4b7e1">
 
 
 #### 2) Enable Accessibility Service FlowChart
 
-<img width="846" alt="스크린샷 2023-12-23 오후 2 26 02" src="https://github.com/tvroom88/Android_RemoteControl_Project/assets/4710854/846f21df-9148-4807-87bc-d5f1885190cb">
+<img width="858" alt="스크린샷 2023-12-23 오후 2 29 55" src="https://github.com/tvroom88/Android_RemoteControl_Project/assets/4710854/d1deb9ac-d66f-4e40-9764-5e091b017064">
 
 
