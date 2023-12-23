@@ -44,6 +44,8 @@ Reference Resources : (WebRTC) [Link](https://www.youtube.com/watch?v=_-GPHNSug2
 <br/><br/>
 5. Follow like below video with two emulator or phone.
 
+Oops. Recording Video is blocked after sharing video!!!.
+
 Caller :
 
 https://github.com/tvroom88/Android_RemoteControl_Project/assets/4710854/54a0e271-eb0e-4aca-9900-fc7052cbbdd4 
